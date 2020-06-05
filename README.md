@@ -7,4 +7,4 @@ _author: vladisa88_
 
 `cd image_test`
 
-`pip install -r requirments.txt && python manage.py migrate && python manage.py runserver`
+`pip3 install -r requirments.txt && python3 manage.py migrate && python3 manage.py runserver`
